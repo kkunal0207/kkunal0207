@@ -94,10 +94,11 @@ Repos will contain:
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="kkunal streak stats" />
+  <img src="https://streak-stats.demolab.com?user=kkunal0207" alt="GitHub Streak Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true" alt="GitHub Stats" />
 </p>
 
 ---
