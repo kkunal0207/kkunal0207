@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I’m a **Backend Engineer (4+ years)** specializing in **Java, Spring Boot, Microservices, DevOps, and AWS**, building scalable and production-grade backend systems.
 
-## 🚀 What I'm Focusing On (2025 Dec – 2026 Feb)
+## 🚀 What I'm Focusing On (2025 Dec – 2026 March)
 - Spring Boot Advanced (REST APIs, Microservices, Observability)
 - Spring Cloud (Config Server, Service Registry, Gateway)
 - Spring Security (JWT, RBAC, Authentication/Authorization)
