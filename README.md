@@ -22,7 +22,7 @@ I’m a **Backend Engineer (4+ years)** specializing in **Java, Spring Boot, Mic
 - System Design (HLD + LLD)
 - DSA practice following structured roadmaps
 
-My focus for **Dec 2025 – Feb 2026** is to build a strong portfolio of backend projects, improve problem-solving, and master modern backend engineering practices.
+My focus for **Dec 2025 – March 2026** is to build a strong portfolio of backend projects, improve problem-solving, and master modern backend engineering practices.
 
 ---
 
