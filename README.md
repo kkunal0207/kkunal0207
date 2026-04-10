@@ -93,7 +93,7 @@ Repos will contain:
 
 ## 📈 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
 </p>
 
@@ -107,7 +107,25 @@ Repos will contain:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkunal0207&theme=github_dark" alt="Languages" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkunal0207&theme=react-dark&hide_border=true&count_private=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkunal0207&theme=github_dark" alt="Languages" />
+</p>
+
+
 ## 🤝 Connect With Me
 
 - **Email:** [kkunal0207@gmail.com](mailto:kkunal0207@gmail.com)  
