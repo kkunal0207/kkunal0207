@@ -93,8 +93,7 @@ Repos will contain:
 
 ## 📈 GitHub Stats  
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkunal0207&layout=compact" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkunal0207&theme=default" alt="Profile Summary" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" />
