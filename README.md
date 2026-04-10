@@ -100,7 +100,8 @@ Repos will contain:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" />
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true" alt="GitHub Stats" />
 ---
 
 ## 🤝 Connect With Me
