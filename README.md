@@ -101,7 +101,10 @@ Repos will contain:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkunal0207&theme=github_dark" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkunal0207&theme=github_dark" alt="GitHub Stats" />
+</p>
 
 ## 🤝 Connect With Me
 
