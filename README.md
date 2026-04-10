@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I’m a **Backend Engineer (4+ years)** specializing in **Java, Spring Boot, Microservices, DevOps, and AWS**, building scalable and production-grade backend systems.
 
-## 🚀 What I'm Focusing On (2025 Dec – 2026 March)
+## 🚀 What I'm Focusing On (2026 April – 2026 August)
 - Spring Boot Advanced (REST APIs, Microservices, Observability)
 - Spring Cloud (Config Server, Service Registry, Gateway)
 - Spring Security (JWT, RBAC, Authentication/Authorization)
@@ -98,7 +98,7 @@ Repos will contain:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkunal0207" alt="GitHub Streak" />
 </p>
 
 ---
