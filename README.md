@@ -110,7 +110,7 @@ Repos will contain:
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkunal0207&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=kkunal0207&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
